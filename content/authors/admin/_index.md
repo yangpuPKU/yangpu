@@ -58,6 +58,6 @@ user_groups:
 - Visitors
 ---
 
-I am a senior undergraduate in School of Mathematical Sciences at Peking University (PKU), majoring in Information and Computing Science. My advisor is Prof. Zhanxing Zhu. I am interested in deep learning, especially in representation learning and adversarial robustness.
+I am a senior undergraduate in School of Mathematical Sciences at Peking University (PKU), majoring in Information and Data Science. My advisor is Prof. Zhanxing Zhu. I am interested in deep learning, especially in representation learning and adversarial robustness.
 
 I will start my PhD degree next year in School of Mathematical Sciences at Peking University. 
