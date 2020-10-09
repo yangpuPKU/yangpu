@@ -24,13 +24,6 @@ date_format = "Jan 2006"
   location = "Chongqing"
   date_start = "2011-09-01"
   date_end = "2017-06-08"
-  description = """
-  Responsibilities include:
-  
-  * Analysing
-  * Modelling
-  * Deploying
-  """
 
 [[experience]]
   title = "Undergraduate"
